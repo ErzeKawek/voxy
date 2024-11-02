@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "voxy",
   "version": "${version}",
-  "name": "Voxy",
+  "name": "Vorksy",
   "description": "Far distance rendering mod utilising LoDs",
   "authors": [
     "Cortex"
